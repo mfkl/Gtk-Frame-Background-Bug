@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gtk-Frame-Background-Bug", "Gtk-Frame-Background-Bug\Gtk-Frame-Background-Bug.csproj", "{DA9FE04B-131A-43AB-932A-F8EAB4443A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frame-Background-Bug", "Frame-Background-Bug\Frame-Background-Bug\Frame-Background-Bug.csproj", "{7B4DB409-8795-403E-B1EE-EC522F792A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA9FE04B-131A-43AB-932A-F8EAB4443A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9FE04B-131A-43AB-932A-F8EAB4443A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9FE04B-131A-43AB-932A-F8EAB4443A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9FE04B-131A-43AB-932A-F8EAB4443A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4DB409-8795-403E-B1EE-EC522F792A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4DB409-8795-403E-B1EE-EC522F792A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4DB409-8795-403E-B1EE-EC522F792A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4DB409-8795-403E-B1EE-EC522F792A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B19E0B2A-3D34-4DCC-8137-FCC126491C36}
+	EndGlobalSection
+EndGlobal

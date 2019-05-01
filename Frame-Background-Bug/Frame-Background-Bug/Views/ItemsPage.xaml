@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Frame_Background_Bug.Views.ItemsPage"
+             x:Name="BrowseItemsPage">
+
+    <Frame x:Name="frame1" BackgroundColor="Transparent">
+        <!--<Frame x:Name="frame2" BackgroundColor="Transparent"/>-->
+    </Frame>
+</ContentPage>
