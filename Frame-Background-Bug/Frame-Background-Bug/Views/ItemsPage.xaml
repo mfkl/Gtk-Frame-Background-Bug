@@ -4,7 +4,7 @@
              x:Class="Frame_Background_Bug.Views.ItemsPage"
              x:Name="BrowseItemsPage">
 
-    <Frame x:Name="frame1" BackgroundColor="Transparent">
-        <!--<Frame x:Name="frame2" BackgroundColor="Transparent"/>-->
+    <Frame x:Name="frame1" BackgroundColor="Blue">
+        <Frame x:Name="frame2" BackgroundColor="Transparent"/>
     </Frame>
 </ContentPage>
